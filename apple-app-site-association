@@ -1,0 +1,17 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "NW83AWMN8Z.com.nivanchikov.money"
+                ],
+                "components": [
+                    {
+                        "/": "/monobank/connect/*",
+                        "comment": "Matches any URL whose path starts with /buy/"
+                    }
+                ]
+            }
+        ]
+    }
+}
